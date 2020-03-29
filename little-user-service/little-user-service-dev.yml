@@ -1,6 +1,6 @@
 #数据库连接串 & 密码
 mariadb: 
-  url: jdbc:mysql://localhost:3306/little?useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=UTF-8&autoReconnect=true&useSSL=false
+  url: 'jdbc:mysql://localhost:3306/little?useUnicode=true&serverTimezone=Asia/Shanghai&characterEncoding=UTF-8&autoReconnect=true&useSSL=false'
   password: 1234
 
 
